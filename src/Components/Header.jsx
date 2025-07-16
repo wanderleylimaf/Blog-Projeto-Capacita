@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/LOGO ADORA PET 1.png"
+
 
 const NavBar_Itens = [
     'Home',
